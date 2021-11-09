@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on Intel Edge Insights Vision
-- 🌱 I’m currently learning Data Structures & Algos
+- 🌱 I’m currently learning Node.js, react.js
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about python 
