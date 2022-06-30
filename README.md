@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on **building personal portfolio**
-- 🌱 I’m currently learning **Node.js** and **Express.js**
+- 🔭 I’m currently interning as a Software Engineer at  **Tesseract Health**
+- 🌱 I’m currently learning **AWS Services** and **Terraform**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 🤔 I’m looking for help with **CI/CD**
 - 💬 Ask me about **Python** and **Java** 
