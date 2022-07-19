@@ -35,7 +35,7 @@ Here are some ideas to get you started:-->
 <br/>
 <br/>
 
-<a href="https://github.com/anuragparla/github-readme-activity-graph"><img alt="Anurag Parla's Activity Graph" src="https://murmuring-inlet-29960.herokuapp.com/graph?username=anuragparla&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!--<a href="https://github.com/anuragparla/github-readme-activity-graph"><img alt="Anurag Parla's Activity Graph" src="https://murmuring-inlet-29960.herokuapp.com/graph?username=anuragparla&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> --> 
 
 [![Anurag's github activity graph](https://murmuring-inlet-29960.herokuapp.com/graph?username=anuragparla)](https://github.com/anuragparla/github-readme-activity-graph)
 
