@@ -5,14 +5,14 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently interning as a Software Engineer at **Tesseract Health**
-- 🌱 I’m currently learning **Typescript**
+- 🔭 I’m currently looking for full time opportunities as a **Software Engineer** beginning **May 2023**
+- 🌱 I’m currently learning **Kubernetes**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💼 Check out my work [here](https://anuragparla.github.io/)
-- 💬 Ask me about **TypeScript**, **Java** and other backend stuff
+- 💬 Ask me about **TypeScript**, **React.js**, **Node.js**, **Java**, **Spring**, **AWS**, **Docker**, **DevOps**, **CI/CD**, **Agile**, **MongoDB**, **Kafka**, **Jest**, **JUnit**, **Cucumber**
 - 📫 How to reach me: **parla.a@northeastern.edu**
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a gadget freak 🎮 and I love to run outdoors 🏃🏻‍♂️
+- 😄 Pronouns: **He/Him/His**
+- :paperclip: My resume: [Anurag_Parla_Resume.pdf](https://drive.google.com/file/d/14_GCyCoC_MDuWX5XvrvoAs-9WxlXYV9Z/view?usp=share_link)
 
 <br/>
 
